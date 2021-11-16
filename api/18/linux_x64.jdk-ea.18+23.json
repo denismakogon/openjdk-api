@@ -1,0 +1,17 @@
+{
+  "release_info" : {
+    "operating_system" : {
+      "os_family" : "linux",
+      "os_arch" : "x64",
+      "alias" : "linux/x64"
+    },
+    "version_info" : {
+      "build_number" : "5-274",
+      "major" : "18",
+      "minor" : "loom",
+      "type" : "jdk-project-pea",
+      "version" : "18+5-274"
+    }
+  },
+  "binary_url" : "https://download.java.net/java/early_access/loom/5/openjdk-18-loom+5-274_linux-x64_bin.tar.gz"
+}

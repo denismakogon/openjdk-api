@@ -1,0 +1,17 @@
+{
+  "release_info" : {
+    "operating_system" : {
+      "os_family" : "macos",
+      "os_arch" : "x64",
+      "alias" : "macos/x64"
+    },
+    "version_info" : {
+      "build_number" : "3-167",
+      "major" : "17",
+      "minor" : "panama",
+      "type" : "jdk-project-pea",
+      "version" : "17+3-167"
+    }
+  },
+  "binary_url" : "https://download.java.net/java/early_access/panama/3/openjdk-17-panama+3-167_macos-x64_bin.tar.gz"
+}
