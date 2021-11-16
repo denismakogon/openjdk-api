@@ -8,7 +8,7 @@ Provide convenient way to work with Oracle OpenJDK releases/builds that can be c
 
 When application launched, the OpenAPI v3.0 UI is available her:
 ```text
-http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+http://localhost:8080/swagger-ui/index.html?configUrl=/api-docs/swagger-config
 ```
 
 Swagger spec is available here:
