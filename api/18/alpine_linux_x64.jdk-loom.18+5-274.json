@@ -1,0 +1,16 @@
+{
+  "release_info" : {
+    "operating_system" : {
+      "os_family" : "alpine linux",
+      "os_arch" : "x64",
+      "alias" : "alpine linux/x64"
+    },
+    "version_info" : {
+      "build_number" : "23",
+      "major" : "18",
+      "type" : "jdk-ea",
+      "version" : "18+23"
+    }
+  },
+  "binary_url" : "https://download.java.net/java/early_access/alpine/11/binaries/openjdk-18-ea+11_linux-x64-musl_bin.tar.gz"
+}

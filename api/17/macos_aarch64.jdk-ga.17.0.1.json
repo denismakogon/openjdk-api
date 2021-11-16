@@ -1,0 +1,17 @@
+{
+  "release_info" : {
+    "operating_system" : {
+      "os_family" : "macos",
+      "os_arch" : "aarch64",
+      "alias" : "macos/aarch64"
+    },
+    "version_info" : {
+      "major" : "17",
+      "minor" : "0",
+      "security" : "1",
+      "type" : "jdk-ga",
+      "version" : "17.0.1"
+    }
+  },
+  "binary_url" : "https://download.java.net/java/GA/jdk17.0.1/2a2082e5a09d4267845be086888add4f/12/GPL/openjdk-17.0.1_macos-aarch64_bin.tar.gz"
+}
