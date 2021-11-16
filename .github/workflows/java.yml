@@ -1,4 +1,4 @@
-name: OpenJDK 16
+name: OpenJDK 17
 on:
   push:
     branches: [ master ]
